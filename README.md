@@ -14,7 +14,7 @@ function fancyAlert(arg) {
 }
 ```
 
-   git clone <repo link>
+    git clone <repo link>
 
 
 
